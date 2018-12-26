@@ -1,0 +1,73 @@
+.er1{color: blue}
+body{
+list-style-type: none;
+margin: 0;
+padding: 0;
+font-family: Roboto;
+background-image: url(project1.jpg);
+ background: url(project1.jpg) no-repeat;
+    -moz-background-size: 100%; /* Firefox 3.6+ */
+    -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+    -o-background-size: 100%; /* Opera 9.6+ */
+    background-size: 100%; /* Современные браузеры */
+    color: white;
+    background-color: #30A8E6;
+  }
+
+p{font-style: 20px;}
+
+a{text-decoration: none;}
+
+
+.f1{font-size: 30px;font-family: Roboto;}
+
+/*body{
+  list-style-type: none;
+      margin: 0;
+    padding: 0;
+}*/
+ 
+
+  ul {
+  list-style: none; /*убираем маркеры списка*/
+  margin: 0; /*убираем отступы*/
+ padding-left: 0; /*убираем отступы*/
+ margin-top:0; /*делаем отступ сверху*/
+  background:#819A32; /*добавляем фон всему меню*/
+  height: 50px; /*задаем высоту*/
+  font-size: 10px;
+}
+
+
+
+.a12 {
+  
+  text-decoration: none; 
+  background:#30A8E6; 
+  color:white; 
+  font-family: Roboto; 
+  line-height:60px; 
+  display: block; 
+  font-size: 30px;
+}
+a:hover {background:#1C85BB;}
+
+#o1{width: 25%; float: left;}
+#o2{width: 25%; float: left;}
+#o3{width: 25%; float: left;}
+#o4{width: 25%; float: left;}
+
+
+
+ #v1:hover {background:#1C85BB;
+   background-color:red;
+  color:white;}
+  .text{color: white; margin-left: 10px; text-shadow: 1px 1px 0 black, -1px -1px 0 black;}
+  #big{ font-size: 42px;
+  
+  padding-top: 10px;
+  
+}
+.bigger{font-size: 26px;}
+#gh(color: white)
+.er1{font-size: 22px;  margin-left: 10px;}

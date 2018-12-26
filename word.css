@@ -1,0 +1,91 @@
+.er1{color: blue}
+body{
+list-style-type: none;
+margin: 0;
+padding: 0;
+font-family: Roboto;
+background-image: url(project2.jpg);
+   background: url(project2.jpg) no-repeat;
+    -moz-background-size: 100%; /* Firefox 3.6+ */
+    -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+    -o-background-size: 100%; /* Opera 9.6+ */
+    background-size: 100%; /* Современные браузеры */}
+
+p{font-style: 20px;}
+
+a{text-decoration: none;}
+
+.test1{
+  font-size: 14px;
+  background-color: orange;
+  color:white;
+  height: 100%;
+ margin-right: 100px;
+}
+
+#left1{
+  width: 50%; float: left;
+  background-color: white;
+}
+
+#right1{
+  width: 30%; float: right;
+  background-color: orange;
+  color: white;
+   text-align: left ;
+   height: 1200px;
+   padding-left: 90px;
+   font-family: Roboto;
+   
+}
+
+.f1{font-size: 30px;font-family: Roboto;}
+
+/*body{
+  list-style-type: none;
+      margin: 0;
+    padding: 0;
+}*/
+ 
+
+  ul {
+  list-style: none; /*убираем маркеры списка*/
+  margin: 0; /*убираем отступы*/
+ padding-left: 0; /*убираем отступы*/
+ margin-top:0; /*делаем отступ сверху*/
+  background:#819A32; /*добавляем фон всему меню*/
+  height: 50px; /*задаем высоту*/
+  font-size: 10px;
+}
+
+
+
+.a12 {
+  
+  text-decoration: none; 
+  background:#30A8E6; 
+  color:#fff; 
+  font-family: Roboto; 
+  line-height:60px; 
+  display: block; 
+  font-size: 30px;
+}
+a:hover {background:#1C85BB;}
+
+#o1{width: 25%; float: left;}
+#o2{width: 25%; float: left;}
+#o3{width: 25%; float: left;}
+#o4{width: 25%; float: left;}
+
+
+#v1,#o11,#o12,#o13{ font-size: 36px;
+  
+  color:red;
+  height: 10%;
+}
+ #v1:hover,#o11:hover,#o12:hover,#o13:hover {
+   background-color:red;
+  color:white;}
+  #o11{width: 33%; float: left;}
+#o12{width: 33%; float: left;}
+#o13{width: 33%; float: left;}
